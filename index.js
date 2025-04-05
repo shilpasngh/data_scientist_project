@@ -1,7 +1,6 @@
 const ageValue=21
 const name="Shilpa Singh New"
 const dob='01/01/1993'  
-
 function sayName()
 {
     console.log('My name is ${name}')
