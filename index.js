@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 const ageValue=65
+=======
+const ageValue=10
+>>>>>>> c5c746b (final)
 const name="Chandradeep Singh New"
 const dob='01/01/1993'  
 function sayName()
