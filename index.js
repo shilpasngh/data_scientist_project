@@ -1,6 +1,10 @@
 const ageValue=21
 const name="Shilpa Singh New"
+<<<<<<< HEAD
 const dob='01/01/2018'  
+=======
+const dob='01/01/1993'  
+>>>>>>> 2dc22fa (dob changed)
 
 function sayName()
 {
